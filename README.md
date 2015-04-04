@@ -1,2 +1,6 @@
 # gs-rest-hateoas-completes
-spring-boot, Hipermedia-Driven Rest Web Service
+Hipermedia-Driven Rest Web Service
+- spring-boot
+- @JsonCreator
+- @JsonProperty
+- ResponseEntity<T>
